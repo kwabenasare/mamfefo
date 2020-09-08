@@ -1,1 +1,2 @@
 This is a demo file for showing how to add new file to git.
+This is a demo2 file for showing how to add new file to git
