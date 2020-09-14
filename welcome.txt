@@ -1,3 +1,7 @@
 This is a demo file for showing how to add new file to git.
 This is a demo2 file for showing how to add new file to git
+<<<<<<< HEAD
 The current change...
+=======
+This is a third line added for Git pull.
+>>>>>>> 9197eb363618fb789eb232ea2d096c029fb919c6
